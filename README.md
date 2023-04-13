@@ -1,1 +1,1 @@
-# churn_prediction
+churn prediction menggunakan algoritma decission tree, random forest, dan logistic regression
